@@ -1,0 +1,1021 @@
+fileFormatVersion: 2
+guid: b981ea781d2780348be7a59ce20713ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8751878618405774701
+    second: Bear Right Walking_0
+  - first:
+      213: 6464859642142533497
+    second: Bear Right Walking_1
+  - first:
+      213: 4533769849090888385
+    second: Bear Right Walking_2
+  - first:
+      213: -3343562978518197551
+    second: Bear Right Walking_3
+  - first:
+      213: -8778848228386303469
+    second: Bear Right Walking_4
+  - first:
+      213: -8806938899453648960
+    second: Bear Right Walking_5
+  - first:
+      213: -2023858232668813220
+    second: Bear Right Walking_6
+  - first:
+      213: -1503607589419797364
+    second: Bear Right Walking_7
+  - first:
+      213: 8201230016261556685
+    second: Bear Right Walking_8
+  - first:
+      213: -2218040537828250451
+    second: Bear Right Walking_9
+  - first:
+      213: 4116785750420030028
+    second: Bear Right Walking_10
+  - first:
+      213: -2583444489718804365
+    second: Bear Right Walking_11
+  - first:
+      213: -6727406853082486183
+    second: Bear Right Walking_12
+  - first:
+      213: -2876194684413317967
+    second: Bear Right Walking_13
+  - first:
+      213: 257756284604493748
+    second: Bear Right Walking_14
+  - first:
+      213: -858253031648411166
+    second: Bear Right Walking_15
+  - first:
+      213: -1641287267290364650
+    second: Bear Right Walking_16
+  - first:
+      213: 6845205708240949906
+    second: Bear Right Walking_17
+  - first:
+      213: -4940141896943397189
+    second: Bear Right Walking_18
+  - first:
+      213: -1027675926037205345
+    second: Bear Right Walking_19
+  - first:
+      213: -5324775715610103501
+    second: Bear Right Walking_20
+  - first:
+      213: 477569892709670813
+    second: Bear Right Walking_21
+  - first:
+      213: -4443587425488348879
+    second: Bear Right Walking_22
+  - first:
+      213: -6176712903166414663
+    second: Bear Right Walking_23
+  - first:
+      213: 1748937783426963893
+    second: Bear Right Walking_24
+  - first:
+      213: 6658735296913632
+    second: Bear Right Walking_25
+  - first:
+      213: -2346211426258003985
+    second: Bear Right Walking_26
+  - first:
+      213: 7292937059253445517
+    second: Bear Right Walking_27
+  - first:
+      213: 1703070740267156716
+    second: Bear Right Walking_28
+  - first:
+      213: 3480436473535646843
+    second: Bear Right Walking_29
+  - first:
+      213: -3618528353347543258
+    second: Bear Right Walking_30
+  - first:
+      213: -2373824820978806101
+    second: Bear Right Walking_31
+  - first:
+      213: 1349851828435012858
+    second: Bear Right Walking_32
+  - first:
+      213: -7415608967105576905
+    second: Bear Right Walking_33
+  - first:
+      213: -7700263561931334217
+    second: Bear Right Walking_34
+  - first:
+      213: 2538977160069980664
+    second: Bear Right Walking_35
+  - first:
+      213: -1891434560135554071
+    second: Bear Right Walking_36
+  - first:
+      213: -4458339876729065808
+    second: Bear Right Walking_37
+  - first:
+      213: 3666350879205384218
+    second: Bear Right Walking_38
+  - first:
+      213: -2253793797704721247
+    second: Bear Right Walking_39
+  - first:
+      213: -8270562422116831731
+    second: Bear Right Walking_40
+  - first:
+      213: 7473945771047550028
+    second: Bear Right Walking_41
+  - first:
+      213: -7597660918900804906
+    second: Bear Right Walking_42
+  - first:
+      213: 2317537233449868252
+    second: Bear Right Walking_43
+  - first:
+      213: 2166042852574443012
+    second: Bear Right Walking_44
+  - first:
+      213: -5473430793527306692
+    second: Bear Right Walking_45
+  - first:
+      213: 957418890265149827
+    second: Bear Right Walking_46
+  - first:
+      213: -7942303080231186054
+    second: Bear Right Walking_47
+  - first:
+      213: -60164291003962429
+    second: Bear Right Walking_48
+  - first:
+      213: 7337101222187768941
+    second: Bear Right Walking_49
+  - first:
+      213: -6336847857118696524
+    second: Bear Right Walking_50
+  - first:
+      213: 4516520085003920976
+    second: Bear Right Walking_51
+  - first:
+      213: -8012184548118186649
+    second: Bear Right Walking_52
+  - first:
+      213: -2286937875210457766
+    second: Bear Right Walking_53
+  - first:
+      213: -8469332943559105164
+    second: Bear Right Walking_54
+  - first:
+      213: 7763768609858016271
+    second: Bear Right Walking_55
+  - first:
+      213: 5892148703189681751
+    second: Bear Right Walking_56
+  - first:
+      213: -9204814243788483314
+    second: Bear Right Walking_57
+  - first:
+      213: 8480280497089506332
+    second: Bear Right Walking_58
+  - first:
+      213: 4892718007749313769
+    second: Bear Right Walking_59
+  - first:
+      213: 4386049799556730041
+    second: Bear Right Walking_60
+  - first:
+      213: -7986251150958081790
+    second: Bear Right Walking_61
+  - first:
+      213: 5283910996931872995
+    second: Bear Right Walking_62
+  - first:
+      213: -6713415634652977712
+    second: Bear Right Walking_63
+  - first:
+      213: 5192244918545505773
+    second: Bear Right Walking_64
+  - first:
+      213: -8717387516409381339
+    second: Bear Right Walking_65
+  - first:
+      213: 6424889245558163800
+    second: Bear Right Walking_66
+  - first:
+      213: -3613207338914837139
+    second: Bear Right Walking_67
+  - first:
+      213: -6320381942872050868
+    second: Bear Right Walking_68
+  - first:
+      213: 7068728087228404723
+    second: Bear Right Walking_69
+  - first:
+      213: -6604211336538880573
+    second: Bear Right Walking_70
+  - first:
+      213: 5795255343434729401
+    second: Bear Right Walking_71
+  - first:
+      213: 4503165075143321810
+    second: Bear Right Walking_72
+  - first:
+      213: -764605302804305306
+    second: Bear Right Walking_73
+  - first:
+      213: 8743370433029338805
+    second: Bear Right Walking_74
+  - first:
+      213: 7092514959181585296
+    second: Bear Right Walking_75
+  - first:
+      213: -2043656309777897795
+    second: Bear Right Walking_76
+  - first:
+      213: -1275558275591112202
+    second: Bear Right Walking_77
+  - first:
+      213: 5939534483583939662
+    second: Bear Right Walking_78
+  - first:
+      213: 7155115660248552562
+    second: Bear Right Walking_79
+  - first:
+      213: -7741158383835441698
+    second: Bear Right Walking_80
+  - first:
+      213: -494508949203240586
+    second: Bear Right Walking_81
+  - first:
+      213: 4295860409622105196
+    second: Bear Right Walking_82
+  - first:
+      213: -4958829531465300019
+    second: Bear Right Walking_83
+  - first:
+      213: 3027845966442686374
+    second: Bear Right Walking_84
+  - first:
+      213: 1840483422813871579
+    second: Bear Right Walking_85
+  - first:
+      213: -5284049242565929326
+    second: Bear Right Walking_86
+  - first:
+      213: 4835973738370259546
+    second: Bear Right Walking_87
+  - first:
+      213: 3059134329034873362
+    second: Bear Right Walking_88
+  - first:
+      213: -8166615671515637800
+    second: Bear Right Walking_89
+  - first:
+      213: -8001608327849473077
+    second: Bear Right Walking_90
+  - first:
+      213: -5970360649308922931
+    second: Bear Right Walking_91
+  - first:
+      213: 2547489633288900974
+    second: Bear Right Walking_92
+  - first:
+      213: 2543921090145617331
+    second: Bear Right Walking_93
+  - first:
+      213: 5691242017072055675
+    second: Bear Right Walking_94
+  - first:
+      213: -1853551870793913091
+    second: Bear Right Walking_95
+  - first:
+      213: -7102574846021366285
+    second: Bear Right Walking_96
+  - first:
+      213: -7101050856523363221
+    second: Bear Right Walking_97
+  - first:
+      213: -6826324057006211844
+    second: Bear Right Walking_98
+  - first:
+      213: -1544094015310120747
+    second: Bear Right Walking_99
+  - first:
+      213: 8778693668409229291
+    second: Bear Right Walking_100
+  - first:
+      213: 5426393962168686447
+    second: Bear Right Walking_101
+  - first:
+      213: 7031674916204181433
+    second: Bear Right Walking_102
+  - first:
+      213: -6158423416820789971
+    second: Bear Right Walking_103
+  - first:
+      213: 7520279162477573127
+    second: Bear Right Walking_104
+  - first:
+      213: 3232558838911444086
+    second: Bear Right Walking_105
+  - first:
+      213: 8977028849002747909
+    second: Bear Right Walking_106
+  - first:
+      213: 4528461344468297076
+    second: Bear Right Walking_107
+  - first:
+      213: 388262005506103700
+    second: Bear Right Walking_108
+  - first:
+      213: -952794417328009925
+    second: Bear Right Walking_109
+  - first:
+      213: 5216304476997105387
+    second: Bear Right Walking_110
+  - first:
+      213: -7632788401239247165
+    second: Bear Right Walking_111
+  - first:
+      213: 7905055529719816323
+    second: Bear Right Walking_112
+  - first:
+      213: 6461607066174603265
+    second: Bear Right Walking_113
+  - first:
+      213: -2387995108229658303
+    second: Bear Right Walking_114
+  - first:
+      213: -2903569408530491927
+    second: Bear Right Walking_115
+  - first:
+      213: 4820920140407010346
+    second: Bear Right Walking_116
+  - first:
+      213: -3988776137309303288
+    second: Bear Right Walking_117
+  - first:
+      213: 4892046897590307292
+    second: Bear Right Walking_118
+  - first:
+      213: 1395383936229570749
+    second: Bear Right Walking_119
+  - first:
+      213: -2654781123875345605
+    second: Bear Right Walking_120
+  - first:
+      213: 8119986009500767303
+    second: Bear Right Walking_121
+  - first:
+      213: 1125516648532067580
+    second: Bear Right Walking_122
+  - first:
+      213: 7695601584457636445
+    second: Bear Right Walking_123
+  - first:
+      213: -4147507290449963624
+    second: Bear Right Walking_124
+  - first:
+      213: -1417696434992329494
+    second: Bear Right Walking_125
+  - first:
+      213: 6988040041148738379
+    second: Bear Right Walking_126
+  - first:
+      213: 3107296906198850019
+    second: Bear Right Walking_127
+  - first:
+      213: -3094050084402030369
+    second: Bear Right Walking_128
+  - first:
+      213: -3823364399786809915
+    second: Bear Right Walking_129
+  - first:
+      213: -7552848716929308965
+    second: Bear Right Walking_130
+  - first:
+      213: -6312459465445972420
+    second: Bear Right Walking_131
+  - first:
+      213: -2372102961643769159
+    second: Bear Right Walking_132
+  - first:
+      213: -966992919139534002
+    second: Bear Right Walking_133
+  - first:
+      213: 1012426112326546736
+    second: Bear Right Walking_134
+  - first:
+      213: -4775042376070851017
+    second: Bear Right Walking_135
+  - first:
+      213: 8696943139829235286
+    second: Bear Right Walking_136
+  - first:
+      213: -3850088897451435431
+    second: Bear Right Walking_137
+  - first:
+      213: -5296382592385425170
+    second: Bear Right Walking_138
+  - first:
+      213: 1957656121075060424
+    second: Bear Right Walking_139
+  - first:
+      213: -3266698194578920457
+    second: Bear Right Walking_140
+  - first:
+      213: 6645977523618143918
+    second: Bear Right Walking_141
+  - first:
+      213: -2208980375991846926
+    second: Bear Right Walking_142
+  - first:
+      213: 3870388384276830815
+    second: Bear Right Walking_143
+  - first:
+      213: 6528501259646244366
+    second: Bear Right Walking_144
+  - first:
+      213: -160598601402149403
+    second: Bear Right Walking_145
+  - first:
+      213: 8924086560139752076
+    second: Bear Right Walking_146
+  - first:
+      213: 1565073661302718578
+    second: Bear Right Walking_147
+  - first:
+      213: -7690443420506604344
+    second: Bear Right Walking_148
+  - first:
+      213: -5186079627646336800
+    second: Bear Right Walking_149
+  - first:
+      213: -6016685051387692270
+    second: Bear Right Walking_150
+  - first:
+      213: 4499631769639274682
+    second: Bear Right Walking_151
+  - first:
+      213: -150348941498147367
+    second: Bear Right Walking_152
+  - first:
+      213: 6149184702124952045
+    second: Bear Right Walking_153
+  - first:
+      213: 7677218782054723630
+    second: Bear Right Walking_154
+  - first:
+      213: 3955581068698665905
+    second: Bear Right Walking_155
+  - first:
+      213: -775664028568937645
+    second: Bear Right Walking_156
+  - first:
+      213: -5201163080784539074
+    second: Bear Right Walking_157
+  - first:
+      213: 7936068535412903568
+    second: Bear Right Walking_158
+  - first:
+      213: -6993785165745558872
+    second: Bear Right Walking_159
+  - first:
+      213: 8442551737344499851
+    second: Bear Right Walking_160
+  - first:
+      213: 9089434497316045288
+    second: Bear Right Walking_161
+  - first:
+      213: -3413710032918251139
+    second: Bear Right Walking_162
+  - first:
+      213: -8407548188202191051
+    second: Bear Right Walking_163
+  - first:
+      213: -7038910501332944927
+    second: Bear Right Walking_164
+  - first:
+      213: -3338895007612132166
+    second: Bear Right Walking_165
+  - first:
+      213: 8831466264444561599
+    second: Bear Right Walking_166
+  - first:
+      213: 1313379248626828619
+    second: Bear Right Walking_167
+  - first:
+      213: -1410998933481086191
+    second: Bear Right Walking_168
+  - first:
+      213: 2077569584912391430
+    second: Bear Right Walking_169
+  - first:
+      213: 1651643682703752350
+    second: Bear Right Walking_170
+  - first:
+      213: -5923341330668926088
+    second: Bear Right Walking_171
+  - first:
+      213: 4105736072441804463
+    second: Bear Right Walking_172
+  - first:
+      213: -7256811129147327184
+    second: Bear Right Walking_173
+  - first:
+      213: 4106352766944276664
+    second: Bear Right Walking_174
+  - first:
+      213: -6643088038426354870
+    second: Bear Right Walking_175
+  - first:
+      213: 4955548748917385248
+    second: Bear Right Walking_176
+  - first:
+      213: 6547615251469127174
+    second: Bear Right Walking_177
+  - first:
+      213: 8006597318694221197
+    second: Bear Right Walking_178
+  - first:
+      213: -466680498880892653
+    second: Bear Right Walking_179
+  - first:
+      213: -893410399526744856
+    second: Bear Right Walking_180
+  - first:
+      213: -2345028948628120082
+    second: Bear Right Walking_181
+  - first:
+      213: 5246382679114729685
+    second: Bear Right Walking_182
+  - first:
+      213: 7496874215397376885
+    second: Bear Right Walking_183
+  - first:
+      213: 4604332315210748711
+    second: Bear Right Walking_184
+  - first:
+      213: 1991762948727637927
+    second: Bear Right Walking_185
+  - first:
+      213: -1478749997920939794
+    second: Bear Right Walking_186
+  - first:
+      213: 1961760144172451617
+    second: Bear Right Walking_187
+  - first:
+      213: 4480272917081739281
+    second: Bear Right Walking_188
+  - first:
+      213: -8883406127089793924
+    second: Bear Right Walking_189
+  - first:
+      213: -249769439141124459
+    second: Bear Right Walking_190
+  - first:
+      213: -837030551944119562
+    second: Bear Right Walking_191
+  - first:
+      213: 7400598840625923208
+    second: Bear Right Walking_192
+  - first:
+      213: 4120111589991189850
+    second: Bear Right Walking_193
+  - first:
+      213: -4940908412503232035
+    second: Bear Right Walking_194
+  - first:
+      213: -5916172762365455410
+    second: Bear Right Walking_195
+  - first:
+      213: 1199092113134059365
+    second: Bear Right Walking_196
+  - first:
+      213: 2745891975885514719
+    second: Bear Right Walking_197
+  - first:
+      213: 5008370208275361635
+    second: Bear Right Walking_198
+  - first:
+      213: -3038455972677869901
+    second: Bear Right Walking_199
+  - first:
+      213: -8522046923731767954
+    second: Bear Right Walking_200
+  - first:
+      213: -8748952462543387201
+    second: Bear Right Walking_201
+  - first:
+      213: -7018407172622552140
+    second: Bear Right Walking_202
+  - first:
+      213: 4845398572500816023
+    second: Bear Right Walking_203
+  - first:
+      213: 840021493155189613
+    second: Bear Right Walking_204
+  - first:
+      213: -7616952303921064304
+    second: Bear Right Walking_205
+  - first:
+      213: -8278180420869118608
+    second: Bear Right Walking_206
+  - first:
+      213: 3676713614757515631
+    second: Bear Right Walking_207
+  - first:
+      213: -6884068868446500647
+    second: Bear Right Walking_208
+  - first:
+      213: -130998538480302848
+    second: Bear Right Walking_209
+  - first:
+      213: -4207856630273755266
+    second: Bear Right Walking_210
+  - first:
+      213: -48011251962154981
+    second: Bear Right Walking_211
+  - first:
+      213: 7348156581616123239
+    second: Bear Right Walking_212
+  - first:
+      213: -8485265225158169699
+    second: Bear Right Walking_213
+  - first:
+      213: 3425722812292177439
+    second: Bear Right Walking_214
+  - first:
+      213: -2811914509892971724
+    second: Bear Right Walking_215
+  - first:
+      213: 9215076278638860821
+    second: Bear Right Walking_216
+  - first:
+      213: -8675549347903326768
+    second: Bear Right Walking_217
+  - first:
+      213: 2047601326079741927
+    second: Bear Right Walking_218
+  - first:
+      213: -1529406922559828005
+    second: Bear Right Walking_219
+  - first:
+      213: 8202720985964894359
+    second: Bear Right Walking_220
+  - first:
+      213: 5077379150269947143
+    second: Bear Right Walking_221
+  - first:
+      213: 6500669974221757562
+    second: Bear Right Walking_222
+  - first:
+      213: 2930854597546086038
+    second: Bear Right Walking_223
+  - first:
+      213: 872335392840887897
+    second: Bear Right Walking_224
+  - first:
+      213: 1983936913341332983
+    second: Bear Right Walking_225
+  - first:
+      213: 581299503112599631
+    second: Bear Right Walking_226
+  - first:
+      213: 3367640902063782984
+    second: Bear Right Walking_227
+  - first:
+      213: 6955552334446254339
+    second: Bear Right Walking_228
+  - first:
+      213: -8177121103014530009
+    second: Bear Right Walking_229
+  - first:
+      213: 5697935825971283713
+    second: Bear Right Walking_230
+  - first:
+      213: -3314513955081789573
+    second: Bear Right Walking_231
+  - first:
+      213: 4740667288813849726
+    second: Bear Right Walking_232
+  - first:
+      213: -4666515368770107536
+    second: Bear Right Walking_233
+  - first:
+      213: -5110808809094233597
+    second: Bear Right Walking_234
+  - first:
+      213: 1873394078903511773
+    second: Bear Right Walking_235
+  - first:
+      213: 6844698180205155700
+    second: Bear Right Walking_236
+  - first:
+      213: -8143494610487707430
+    second: Bear Right Walking_237
+  - first:
+      213: -3445400218301527361
+    second: Bear Right Walking_238
+  - first:
+      213: 8028675381741499127
+    second: Bear Right Walking_239
+  - first:
+      213: -4369071028213164948
+    second: Bear Right Walking_240
+  - first:
+      213: -6564856130849093059
+    second: Bear Right Walking_241
+  - first:
+      213: 442133587822468946
+    second: Bear Right Walking_242
+  - first:
+      213: -5853388170839052964
+    second: Bear Right Walking_243
+  - first:
+      213: 1014316146153100844
+    second: Bear Right Walking_244
+  - first:
+      213: 1553415639891626513
+    second: Bear Right Walking_245
+  - first:
+      213: -8705935300944012532
+    second: Bear Right Walking_246
+  - first:
+      213: 8632174605714278625
+    second: Bear Right Walking_247
+  - first:
+      213: -7118663467581994206
+    second: Bear Right Walking_248
+  - first:
+      213: 3144820352534860451
+    second: Bear Right Walking_249
+  - first:
+      213: 3895021021263570005
+    second: Bear Right Walking_250
+  - first:
+      213: -909730332480294583
+    second: Bear Right Walking_251
+  - first:
+      213: 7647704973900779328
+    second: Bear Right Walking_252
+  - first:
+      213: 1497394038205869067
+    second: Bear Right Walking_253
+  - first:
+      213: 4492108686719269920
+    second: Bear Right Walking_254
+  - first:
+      213: -2585781540441274336
+    second: Bear Right Walking_255
+  - first:
+      213: 6891869752524035329
+    second: Bear Right Walking_256
+  - first:
+      213: -8282105813118236946
+    second: Bear Right Walking_257
+  - first:
+      213: 8582018190216536350
+    second: Bear Right Walking_258
+  - first:
+      213: -422229711697917221
+    second: Bear Right Walking_259
+  - first:
+      213: -2214493666336847920
+    second: Bear Right Walking_260
+  - first:
+      213: -8369666866235394518
+    second: Bear Right Walking_261
+  - first:
+      213: 3533451894585272366
+    second: Bear Right Walking_262
+  - first:
+      213: 2616089038187682064
+    second: Bear Right Walking_263
+  - first:
+      213: -2343082082505469300
+    second: Bear Right Walking_264
+  - first:
+      213: 7003827225915061966
+    second: Bear Right Walking_265
+  - first:
+      213: -945042688385888352
+    second: Bear Right Walking_266
+  - first:
+      213: -7606384050930180521
+    second: Bear Right Walking_267
+  - first:
+      213: -6054394217722767169
+    second: Bear Right Walking_268
+  - first:
+      213: -5831856498992097752
+    second: Bear Right Walking_269
+  - first:
+      213: -6355857172982907357
+    second: Bear Right Walking_270
+  - first:
+      213: 3339248460435245515
+    second: Bear Right Walking_271
+  - first:
+      213: 8624078892273027769
+    second: Bear Right Walking_272
+  - first:
+      213: -1271978848378845124
+    second: Bear Right Walking_273
+  - first:
+      213: 3013805130169016182
+    second: Bear Right Walking_274
+  - first:
+      213: -2391931109189043572
+    second: Bear Right Walking_275
+  - first:
+      213: 5744579327679531211
+    second: Bear Right Walking_276
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1010
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bear Right Walking_0
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5004
+        width: 3326
+        height: 1510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a569814c41b8680800000000000000
+      internalID: -8751878618405774701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Right Walking_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 3272
+        width: 3116
+        height: 1624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9772aac979bc7b950800000000000000
+      internalID: 6464859642142533497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Right Walking_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1733
+        width: 3113
+        height: 1526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2507428af2bee30800000000000000
+      internalID: 4533769849090888385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bear Right Walking_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 6
+        width: 3110
+        height: 1625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da964d9f274991d0800000000000000
+      internalID: -3343562978518197551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
